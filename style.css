@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif; 
+}
+.css
+{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 1px 1px 9px -4px rgb(146, 142, 142);
+    transition: .5s;
+    
+  }
+  .css:hover{
+    transform: translateY(-15px);
+}
+.head{
+  border:1px solid gray;
+}
